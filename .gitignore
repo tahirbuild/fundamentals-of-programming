@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vercel/
+
+# Console build output and runtime data
+*.exe
+*.o
+cpp/grade_manager
+students.txt
